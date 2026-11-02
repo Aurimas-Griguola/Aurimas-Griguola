@@ -4,7 +4,7 @@ I keep IT systems running and secure by day, and build with local AI, Godot and 
 
 - **Guiri Apocalypse** – an FPS/TPS game in Godot 4 where every weapon fires food. Free demo coming soon on Steam.
 - **Adomas** – a personal AI assistant that runs on local language models (Gemma, Qwen).
-- **Companion robot** *(in design)* – Jetson Orin Nano, LiDAR and a depth camera. Planned layers: PC for reasoning, Jetson for perception, microcontroller for reflexes.
+- **Hermes** *(setting up)* – a stationary desk assistant and the start of my homelab on a Jetson Orin Nano Super: voice, camera and Docker services, with heavier models running on my PC.
 - **Fly-brain experiments** – testing how a simulated fruit-fly connectome tracks moving targets.
 
 ## Focus
