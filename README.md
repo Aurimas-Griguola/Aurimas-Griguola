@@ -21,7 +21,7 @@ I keep IT infrastructure reliable and secure by day, and design and build indepe
 
 ### Engineering Approach
 
-- **Architecture & verification first** — I use AI coding agents (Claude Code, Codex, Cursor, Antigravity) heavily for implementation velocity, while owning system architecture, code review, automated test suites, and release hygiene myself.
+- **Architecture & verification first** — I use AI coding agents (**Antigravity**, Claude Code, Codex) heavily for implementation velocity, while owning system architecture, code review, automated test suites, and release hygiene myself.
 - **Privacy & local-first bias** — favoring offline-capable software, local LLM inference, and minimal data collection wherever practical.
 - **Current focus** — shipping cross-platform mobile/web products, applied AI engineering, Python, and reliable automated testing pipelines.
 
@@ -29,7 +29,7 @@ I keep IT infrastructure reliable and secure by day, and design and build indepe
 
 ### Core Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6) ![React Native](https://img.shields.io/badge/React_Native-1F2937?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1F2937?style=flat-square&logo=expo&logoColor=FFFFFF) ![Godot 4](https://img.shields.io/badge/Godot_4-1F2937?style=flat-square&logo=godotengine&logoColor=478CBF) ![.NET 10](https://img.shields.io/badge/.NET_10-1F2937?style=flat-square&logo=dotnet&logoColor=9F7AEA) ![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB) ![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032) ![Claude Code](https://img.shields.io/badge/Claude_Code-1F2937?style=flat-square&logo=claude&logoColor=D97757)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6) ![React Native](https://img.shields.io/badge/React_Native-1F2937?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1F2937?style=flat-square&logo=expo&logoColor=FFFFFF) ![Godot 4](https://img.shields.io/badge/Godot_4-1F2937?style=flat-square&logo=godotengine&logoColor=478CBF) ![.NET 10](https://img.shields.io/badge/.NET_10-1F2937?style=flat-square&logo=dotnet&logoColor=9F7AEA) ![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB) ![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032) ![Antigravity](https://img.shields.io/badge/Antigravity-1F2937?style=flat-square&logo=googlegemini&logoColor=8AB4F8) ![Claude Code](https://img.shields.io/badge/Claude_Code-1F2937?style=flat-square&logo=claude&logoColor=D97757)
 
 ---
 
